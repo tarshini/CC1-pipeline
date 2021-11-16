@@ -19,3 +19,8 @@ Partie #2
 Schema :
 
 Fichier python <- kinesis agent <-> kinesis datastream <-> kinesis data anamytics -> kinesis firehorse -> bucket S3
+
+Partie #3
+
+5. C'est du à la latence.
+6. Pour créer un compte pour pouvoir avoir un identifiant. 
